@@ -1,0 +1,18 @@
+{
+  "name": "layout-library",
+  "version": "0.0.0-watch+1677501605376",
+  "peerDependencies": {
+    "@angular/common": "^12.0.5",
+    "@angular/core": "^12.0.5"
+  },
+  "dependencies": {
+    "tslib": "^2.1.0"
+  },
+  "main": "bundles/layout-library.umd.js",
+  "module": "fesm2015/layout-library.js",
+  "es2015": "fesm2015/layout-library.js",
+  "esm2015": "esm2015/layout-library.js",
+  "fesm2015": "fesm2015/layout-library.js",
+  "typings": "layout-library.d.ts",
+  "sideEffects": false
+}
